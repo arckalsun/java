@@ -1,2 +1,2 @@
-# java
-practise for java
+# LeetCode 练习
+
